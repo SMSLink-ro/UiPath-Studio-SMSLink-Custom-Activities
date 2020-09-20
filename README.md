@@ -1,6 +1,6 @@
-# Integration of SMSLink.ro in UiPath Studio using SMSLink Custom Activities
+# Integration of SMSLink.ro in UiPath using UiPath Studio and SMSLink Custom Activities
 
-Integration of [SMSLink.ro](https://www.smslink.ro) in UiPath Studio using SMSLink Custom Activities empowers companies to:
+Integration of [SMSLink.ro](https://www.smslink.ro) in UiPath using UiPath Studio and SMSLink Custom Activities empowers companies to:
 
 * Send SMS from UiPath using [SMSLink.ro](https://www.smslink.ro) [SMS Gateway API](https://www.smslink.ro/sms-gateway.html);
 * Manage [SMSLink.ro](https://www.smslink.ro) account blacklist and contacts from UiPath using [Live Update API](https://www.smslink.ro/sms-marketing-documentatie-live-update.html).
@@ -14,12 +14,12 @@ SMSLink.ro allows you to send SMS to all mobile networks in Romania and also to 
 3. Create a Live Update connection at [SMSLink.ro / SMS Marketing / Live Update](https://www.smslink.ro/sms/marketing/liveupdate.php). Each Live Update connection is a pair of Connection ID and Password. Live Update enables you to perform operations on a SMSLink account, operations such as blacklist management and contacts management.
 4. Download & install *UiPathTeam.SMSLink.Activities.1.0.0.10.nupkg* from this repository in UiPath Studio.
 
-## Supported Functions for SMSLink SMS Gateway
+## Supported Functions for SMSLink SMS Gateway in UiPath Studio
 
 - *SendSMS* - sends an SMS to all mobile networks in Romania and also to more than 168 countries and more than 1000 mobile operators worldwide
 - *GetBalance* - retrieve SMSLink account balance
 
-## Supported Functions for SMSLink Live Update
+## Supported Functions for SMSLink Live Update in UiPath Studio
 
 - *Blocklist Add* - Adds a Phone Number to the Blacklist in your SMSLink account
 - *Blocklist Delete* - Removes a Phone Number from the Blacklist in your SMSLink account     
