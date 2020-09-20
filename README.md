@@ -12,7 +12,7 @@ SMSLink.ro allows you to send SMS to all mobile networks in Romania and also to 
 1. Create an account on [SMSLink.ro](https://www.smslink.ro/inregistrare/)
 2. Create a SMS Gateway connection at [SMSLink.ro / SMS Gateway / Configuration & Settings](https://www.smslink.ro/sms/gateway/setup.php). Each SMS Gateway connection is a pair of Connection ID and Password. SMS Gateway enables you to send SMS to all mobile networks in Romania and also to more than 168 countries and more than 1000 mobile operators worldwide.
 3. Create a Live Update connection at [SMSLink.ro / SMS Marketing / Live Update](https://www.smslink.ro/sms/marketing/liveupdate.php). Each Live Update connection is a pair of Connection ID and Password. Live Update enables you to perform operations on a SMSLink account, operations such as blacklist management and contacts management.
-4. Download & install *UiPathTeam.SMSLink.Activities.1.0.0.10.nupkg* from this repository in UiPath Studio.
+4. Download & Install *UiPathTeam.SMSLink.Activities.1.0.0.10.nupkg* from this repository in UiPath Studio.
 
 ## Supported Functions for SMSLink SMS Gateway in UiPath Studio
 
